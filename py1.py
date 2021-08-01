@@ -11,8 +11,8 @@ class A:
 
 
 def f1():
-    a = A(12, 3)
-    b = A(3, 12)
+    a = A(15, 3)
+    b = A(3, 15)
     if (a == b):
         print(b != a)
         print(a)
